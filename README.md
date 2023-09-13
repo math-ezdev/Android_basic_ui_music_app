@@ -17,7 +17,7 @@
 
 
 > **Warning**
-> This is just UI. The App is not working yet (Comming soon)!
+> This is just UI. The App is not working yet (Comming soon :muscle:)!
 
 
 ## Source Code
